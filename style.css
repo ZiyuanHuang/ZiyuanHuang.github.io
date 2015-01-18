@@ -1,2 +1,7 @@
-p.italic{font-style:italic}
-color: green;
+p{
+  font-style:italic;
+  
+}
+.text{
+  color: green;
+}

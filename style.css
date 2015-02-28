@@ -1,15 +1,34 @@
-.title{
+*{
+ 	-webkit-box-sizing: border-box;
+ 	-moz-box-sizing: border-box;
+          box-sizing: border-box;
+ }
+body{
+	display: inline-block;
+}
+span{
+	color: green;
   font-style:oblique;
+  font: 20px;
   background: #eaeaed;
   line-height: 100px;
   text-align: center;
-  border-radius: 50%;
+  border-radius: 100px;
   margin: 0 14px;
-  height: 100px;
-  width:420px;
+  height: 700px;
+  width:700px;
   
 }
-.text{
-  color: green;
+p{
+  font-family: Arial, sans-serif;
+	color: #000000;
+	font-size: 14px;
+}
+.col-md-5{
+	background: #2F4F4F;
+	height: 1000px;
 
+}
+.row{
+	display: block;
 }

@@ -49,6 +49,13 @@ time, mark, audio, video {
 	font-weight: bold;
 	font-family: 'Indie Flower', cursive;
 }
+.title2 a{
+	color: #4D4D4D;
+	text-decoration:none;
+}
+.title2 a:hover{
+	color: #B22222;
+}
 p{
   font-family: 'Muli', sans-serif;
 	color: #000000;
@@ -65,10 +72,10 @@ footer{
 img{
 	float:right;
 }
-a:hover{
-	color: #a9b2b9;
+footer a:hover{
+	color: #B22222;
 }
-a{
-	color: #648880;
+footer a{
+	color: #006400;
 }
 

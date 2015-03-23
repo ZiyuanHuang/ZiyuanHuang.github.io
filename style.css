@@ -43,6 +43,8 @@ time, mark, audio, video {
 .title1{
 	font-size: 30px;
 	font-family: 'Indie Flower', cursive;
+	color: #FF69B4;
+	text-shadow: 2.5px 2.5px 1px #D3D3D3;
 }
 .title2{
 	font-size: 20px;
@@ -52,6 +54,7 @@ time, mark, audio, video {
 .title2 a{
 	color: #4D4D4D;
 	text-decoration:none;
+	
 }
 .title2 a:hover{
 	color: #B22222;

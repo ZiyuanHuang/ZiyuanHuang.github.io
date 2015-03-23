@@ -40,19 +40,35 @@ time, mark, audio, video {
  footer{
  	height: 30px;
  }
-
+.title1{
+	font-size: 30px;
+	font-family: 'Indie Flower', cursive;
+}
+.title2{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Indie Flower', cursive;
+}
 p{
-  font-family: Arial, sans-serif;
+  font-family: 'Muli', sans-serif;
 	color: #000000;
-	font-size: 18px;
+	font-size: 16px;
+}
+.email{
+	margin-right: 20px;
 }
 footer{
 	clear: both;
-	margin-bottom: 0;
-}
-.link{
-	display: block;
+	padding-bottom: 30px;
+	padding-top: 20px;
 }
 img{
 	float:right;
 }
+a:hover{
+	color: #a9b2b9;
+}
+a{
+	color: #648880;
+}
+

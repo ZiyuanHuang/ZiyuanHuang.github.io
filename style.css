@@ -52,9 +52,8 @@ time, mark, audio, video {
 	font-family: 'Indie Flower', cursive;
 }
 .title2 a{
-	color: #4D4D4D;
+	color: #2F4F4F;
 	text-decoration:none;
-	
 }
 .title2 a:hover{
 	color: #B22222;
@@ -69,7 +68,7 @@ p{
 }
 footer{
 	clear: both;
-	padding-bottom: 30px;
+	padding-bottom:80px;
 	padding-top: 20px;
 }
 img{
@@ -80,5 +79,6 @@ footer a:hover{
 }
 footer a{
 	color: #006400;
+	font-family: 'Muli', sans-serif;
 }
 
